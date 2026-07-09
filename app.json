@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Poker Night",
+    "slug": "poker-night",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0A0A0D",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A0A0D"
+    },
+    "ios": {
+      "bundleIdentifier": "com.pokernight.app",
+      "supportsTablet": true,
+      "userInterfaceStyle": "dark"
+    },
+    "android": {
+      "package": "com.pokernight.app",
+      "userInterfaceStyle": "dark",
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0A0D",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "androidStatusBar": {
+      "barStyle": "light-content"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
