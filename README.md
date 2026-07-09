@@ -1,5 +1,5 @@
 # ♠ Poker Night
-
+**Fable 5 Built**
 A dark-mode poker leaderboard companion for cash-style home games — built for use **mid-game with cards in hand**. Logging the end of a hand takes **3 taps or fewer**: tap the winner → tally the pot with chip buttons → Save hand.
 
 One codebase, iOS + Android (React Native + Expo). Everything is stored locally on the device — no accounts, no network.
