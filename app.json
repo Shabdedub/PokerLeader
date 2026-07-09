@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Poker Night",
-    "slug": "poker-night",
+    "slug": "pokernight",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -33,6 +33,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b7fa99cb-5e80-458b-80db-89f94bb3b4ee"
+      }
+    },
+    "owner": "shab03"
   }
 }
