@@ -41,3 +41,6 @@ yarn-error.*
 /android
 
 .export-check/
+
+*.apk
+build-result.json
